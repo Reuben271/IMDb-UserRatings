@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hmy8Dtzf3SEdE50caOc9TGKqVGjBC7BqunfPDfOhCycN1iH9/l5RvPXeECCI4qsxJ1Uq1xQ6BMiw1LczIEwZCw==",
+  "dgSpecHash": "migc5vu+KKdTxTmrSMrOgbhUnMImksX5/1TAYK+pFRIafu2lMTGnxBbq6o2kUfJm2W8fsN27E2W5rL/ghDJTtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rchtk\\source\\repos\\WebScraperPrimary\\WebScrapperPrimary.csproj",
+  "projectFilePath": "C:\\Users\\rchtk\\source\\repos\\WebScraperPrimary\\WebScraperPrimary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rchtk\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
     "C:\\Users\\rchtk\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512",

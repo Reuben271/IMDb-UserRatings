@@ -9237,9 +9237,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rchtk\\source\\repos\\WebScraperPrimary\\WebScrapperPrimary.csproj",
-      "projectName": "WebScrapperPrimary",
-      "projectPath": "C:\\Users\\rchtk\\source\\repos\\WebScraperPrimary\\WebScrapperPrimary.csproj",
+      "projectUniqueName": "C:\\Users\\rchtk\\source\\repos\\WebScraperPrimary\\WebScraperPrimary.csproj",
+      "projectName": "WebScraperPrimary",
+      "projectPath": "C:\\Users\\rchtk\\source\\repos\\WebScraperPrimary\\WebScraperPrimary.csproj",
       "packagesPath": "C:\\Users\\rchtk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rchtk\\source\\repos\\WebScraperPrimary\\obj\\",
       "projectStyle": "PackageReference",
